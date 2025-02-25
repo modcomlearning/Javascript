@@ -1,6 +1,7 @@
 let age = 16;
-if (age >= 18) {
-    console.log("You are an adult.");
-} else {
-    console.log("You are a minor.");
+if (age < 14) {
+    console.log("You are too young to watch this movie.");
+}
+else {
+    console.log("You can watch this movie.");
 }

@@ -1,5 +1,5 @@
 //Object
-let person = {
+  let person = {
     name: "Alice",
     age: 30,
     isAdmin: true
@@ -8,7 +8,6 @@ let person = {
 console.log(person.name); // Output: Alice
  
 
-
-// Array 
+// Array - LIST
 let fruits = ["apple", "banana", "cherry"];
 console.log(fruits[0]); // Output: apple

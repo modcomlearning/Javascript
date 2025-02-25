@@ -2,7 +2,6 @@
 let username = "Alice";
 let greeting = 'Hello, world!';
 
-//Log
 console.log(username)
 console.log(greeting)
 
@@ -28,3 +27,5 @@ console.log(someVariable); // Output: undefined
 //Null
 let user = null;
 console.log(user);
+
+
