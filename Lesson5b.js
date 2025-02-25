@@ -19,15 +19,6 @@ myCounty("Kitui");
 
 
 
-
-
-
-
-
-
-
-
-
 // Arrow function to Add 2 Numbers
 const sum = (num1, num2) => {
     let answer = num1 + num2;

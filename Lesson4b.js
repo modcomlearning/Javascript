@@ -6,7 +6,6 @@ const greet = function () {
 greet();
 
 
-
 // Below function is Anonymous, name
 // It calls itself 
 (function () {
